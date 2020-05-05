@@ -1,0 +1,5 @@
+﻿  Drzewo.cpp
+c:\users\g\desktop\program_1\program_1\program_1\drzewo.cpp(44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\program_1\program_1\program_1\drzewo.cpp(69): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\program_1\program_1\program_1\drzewo.cpp(95): warning C4715: "prawe_liscie”: niewszystkie ścieżki kodu zwracają wartość
+  Program_1.vcxproj -> C:\Users\g\Desktop\Program_1\Program_1\Debug\Program_1.exe
